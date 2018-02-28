@@ -1,0 +1,22 @@
+body {
+  background-color: tomato;
+  color: white;
+  font-size: 40px;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  height: 800px;
+  width: 80%;
+}
+
+.image {
+  flex: 1 1 200px;
+  margin: 3px;
+  width: 80%;
+  height: 800px;
+  background-size: cover;
+
+
+}
