@@ -1,9 +1,6 @@
 # Instagram Curren Location Photo 
 This simple application uses Instagram's API to allow users to view their most recent photos taken at their current location.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
