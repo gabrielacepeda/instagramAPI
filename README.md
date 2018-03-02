@@ -1,4 +1,4 @@
-# Instagram Curren Location Photo 
+# Instagram Current Location Photo 
 This simple application uses Instagram's API to allow users to view their most recent photos taken at their current location.
 
 
